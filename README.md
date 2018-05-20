@@ -24,6 +24,9 @@ Browser start with search for localhost:3000
     * HTTP helpers
     * Generates applications quickly
 * [body-parser](https://www.npmjs.com/package/body-parser) Middleware.  Makes it easy for the back and front-end to talk to each other.  
+* AJAX [jQuery post() Method](https://www.w3schools.com/jquery/ajax_post.asp)
+
+
 
 # Author
 Sonia Bradley
@@ -32,4 +35,6 @@ Sonia Bradley
 This project is licensed under the MIT License
 
 # Acknowledgments
+* You Tube
+* UT Austin Bootcamp
 
