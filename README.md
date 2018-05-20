@@ -12,7 +12,7 @@ Run the command $ npm install body-parser express --save
 
 Then run the command $ node server.js
 
-Browser start with search for localhost:8080 
+Browser start with search for localhost:3000 
 
 # Built With
 
